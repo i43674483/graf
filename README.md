@@ -3,8 +3,7 @@
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://anonymous.4open.science/r/****
-cd ****
+git clone https://anonymous.4open.science/aaai-19769
 ```
 
 ## 🛠️ Environment and Dependencies
